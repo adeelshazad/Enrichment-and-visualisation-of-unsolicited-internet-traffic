@@ -1,2 +1,0 @@
-# Enrichment-and-visualisation-of-unsolicited-internet-traffic
-Spearheaded an empirical data engineering and analytics project to process, enrich, and visualize large-scale Internet Background Radiation (IBR) datasets containing millions of unsolicited network events. Addressed reproducibility challenges in traditional analysis workflows by shifting to a modern, cloud-native analytical environment.
